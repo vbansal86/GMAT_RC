@@ -1,0 +1,105 @@
+Radiation occurs from three natural sources: radioactive material in the environment, such 
+as in soil, rock, or building materials; c osmic rays; and substances in the human body, such as 
+radioactive potassium in bone and radioactive carbon in tissues. These natural sources account 
+for an exposure of about 100 millirems a year for the average American.  
+The largest single source of man -made radiation is medical X rays, yet most scientists  
+agree that hazards from this source are not as great as those from weapons test fallout, since 
+strontium  90 and carbon 14 become incorporated into the body, hence delivering radiation for 
+an entire lifeti me. The issue is, however, by no means uncontroversial. The last two decades 
+have witnessed intensified examination and dispute about the effects of low -level radiation, 
+beginning with the United Nations Scientific Committee on the Effects of Atomic Radiat ion, 
+which reported in 1958 that even the smallest amounts of radiation are likely to cause 
+deleterious genetic and perhaps also somatic effects . 
+A survey conducted in Britain confirmed that an abnormally  high percentage of patients 
+suffering from arthritis of the spine who had been treated  with X rays contracted cancer. 
+Another study  revealed a high incidence of childhood cancer in cases where the mother had 
+been given prenatal pelvic X rays. These studies have pointed to the need to reexamine the 
+assumption that exposure to low -linear energy transfer  presents only a minor  risk. 
+Recently, examinat ion of the death certificates of former employees of a West Coast plant 
+that produces plutonium for nuclear weapons revealed markedly higher rates for cancers of the 
+pancreas, lung, bone marrow , and lymphatic system  than would have been expected in a 
+normal population.  
+While the National Academy of Sciences committee attributes  this difference to chemical or 
+other environmental causes  rather than radiation , other scientists maintain that any radiation 
+exposure , no matter how small, leads to an increase in cancer risk. It is believed by some that 
+a dose of one rem, if sustained over many generations, would lead to an increase  of 1 percent 
+in the number of serious genetic defects  at birth,  a possible increase of 1,000 disorders per 
+million births.  
+In the meantime, regulatory efforts have been disorganized, fragmented, inconsistent, and 
+characterized by internecine strife and bureaucratic delays. A Senate report concluded that 
+coordination o f regulation among involved departments and agencies was not possible because 
+of jurisdictional disputes and confusion. One federal agency has been unsuccessful in its efforts 
+to obtain sufficient funding and manpower for the enforcement of existing radiat ion laws, and 
+the chairperson of a panel especially created to develop a coordinated federal program has 
+resigned.   GMAT  245 
+ 1. The primary purpose of the passage is to  
+(A) explain the difference between natural and man -made radiation  
+(B) arouse concern about the ri sks connected with exposure to radiation  
+(C) criticize the United Nations Scientific Committee on the Effects  of Atomic 
+Radiation  
+(D) advocate limiting the use of atomic weapons  testing, since the fallout is 
+extremely hazardous  
+(E) publicize the results of British medical survey  
+2. Which of the following , according to the passage, is a list of three natural sources 
+of radiation?  
+(A) Radioactive potassium in bone, strontium 90, uranium ore  
+(B) Carbon 14 in tissues, cosmic rays , X rays  
+(C) Cosmic rays, radioactive potassium in bones, radioactive carbon in tissues  
+(D) Plutonium, radioactive material in rock, strontium 90  
+(E) X rays, carbon 14, plutonium  
+3. Which of the following does the author cite in support of the quotation  from the 
+United Nations Scientific Committee on the Effects of Atomic Radiation (lines 
+18-20)? 
+I. Strontium 90 and carbon 14 become incorporated into the body and deliver 
+radiation for an entire lifetime.  
+II. An abnormally high percentage of patients with arthritis of the spine who 
+were treated with X rays subsequently contracted cancer . 
+III. A high incidence of cancer appeared among children of mothers who had 
+been given prenatal pelvic X rays.  
+(A) I only  
+(B) II only  
+(C) I and II only  
+(D) II and III only  
+(E) I, II, and III  
+4. The passage contains information that answers which of the following questions?  
+(A) How many millirems of radiation from man -made sources is the average 
+American exposed to each year?  
+(B) Is exposure to radiation linked to any oth er diseases besides cancer?  
+(C) How many types of radiation are there?  
+(D) What is the maximum level of radiation to which humans can safely be 
+exposed?  
+(E) Why is exposure to the fallout from weapons testing considered by some to be 
+more hazardous than  exposure to X rays?  246 GMAT, GRE, LSAT    
+ 5. According to the passage, some scientists believe that a dose of one rem of 
+radiation continued over a period of generations would  
+(A) raise the strontium 90 levels in the body but otherwise have little effect  
+(B) relieve the acute suffering of those afflicted with arthritis  of the spine without 
+side effects  
+(C) have the effect of increasing by 1 percent the cases of serious genetic defects  
+(D) have little impact  on the regulatory efforts of federal agencies  
+(E) cause an additional  1,000 per million cases of cancer of the bone marrow or 
+lymphatic system  
+6. It can be inferred  from the last paragraph of the passage that the chairperson who 
+resigned from the panel to develop a coordinated federal program for radiation 
+regulation most likely did so because  
+(A) he or she disagreed with the findings of the Senate committee  
+(B) his or her agency could not obtain funding or manpower  for implementation 
+of existing laws  
+(C) he or she supported the position of the Nat ional Academy of Sciences 
+committee and opposed regulation of radiation exposure  
+(D) he or she was disorganized and inconsistent in chairing the panel  
+(E) regulatory efforts  have been balked by disputes, confusion, and bureaucratic 
+delays  
+7. The passage contains evidence suggesting that it was most likely written  
+(A) in 1958  
+(B) by a British scientist  
+(C) for the journal of the National Academy of Sc iences  
+(D) by a lobbyist for the defense industry  
+(E) in the late 1970s  
+8. The passage implies that each of the following statements about radiation has 
+been disputed EXCEPT?  
+(A) Even small doses of radiation are likely to cause birth defects.  
+(B) Expos ure to low -linear energy transfer presents only a minor risk.  
+(C) Many small doses of radiation are as harmful as a single large dose.  
+(D) Humans can tolerate a certain amount of radiation.  
+(E) Exposure to radiation causes cancer.

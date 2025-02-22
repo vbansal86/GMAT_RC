@@ -1,0 +1,61 @@
+Homeostasis, an animals maintenance of certain internal variables within an acceptable 
+range, particularly in  extreme physical environments, has long interested biologists. The desert 
+rat and the camel in the most water -deprived environments, and marine vertebrates in an 
+all-water environment, encounter the same regulatory problem: maintaining adequate internal 
+fluid balance.  
+For desert rats and camels, the problem is conservation of water in an environment where 
+standing water is nonexistent, temperature is high, and humidity is low. Despite these 
+handicaps, desert rats are able to maintain the osmotic pressure o f their blood, as well as their 
+total bo dy-water content, at approximately the same levels as other rats. One countermeasure 
+is behavioral: these rats stay in burrows during the hot part of the day, thus avoiding loss of 282 GMAT, GRE, LSAT    
+ fluid through panting or sweating, which are regulatory mechanisms for maintaining internal 
+body temperature by evaporative cooling . Also, desert rats kidneys can excrete a urine having 
+twice as high a salt content as sea water.  
+Camels, on the other hand, rely more on simple endurance. They cannot store water , and 
+their reliance on an entirely unexceptional kidney results in a r ate of water loss through renal 
+function significantly higher than that of desert rats. As a result, camels must tolerate losses in 
+body water of up to thirty percent of their body weight. Nevertheless , camels do rely on a 
+special mechanism to keep water l oss within a tolerable range: by seating and panting only 
+when their body temperature exceeds that which would kill a human, they conserve internal 
+water.  
+Marine vertebrates experience difficulty with their water balance because though there is 
+no shortage  of seawater to drink, they must drink a lot of it to maintain their internal fluid 
+balance.  But the excess salts from the seawater must be discharged somehow, and the kidneys 
+of most marine vertebrates are unable to excrete a urine in which the salts are more 
+concentrated than in seawater. Most of these animals have special salt -secreting organs outside 
+the kidney that enable them to eliminate excess salt.  
+261. Which of the following most accurately states the purpose of the passage?  
+(A) To compare two dif ferent approaches to the study of homeostasis  
+(B) To summarize the findings of several studies regarding organisms 
+maintenance of internal variables in extreme environments  
+(C) To argue for a particular hypothesis regarding various organisms 
+conservation  of water in desert environments  
+(D) To cite examples of how homeostasis is achieved by various organisms  
+(E) To defend a new theory regarding the maintenance of adequate fluid balance  
+262. According to the passage, the camel maintains internal fluid balance in which of 
+the following ways?  
+I. By behavioral avoidance of exposure to conditions that lead to f luid loss  
+II. By an ability to tolerate high body temperatures  
+III. By reliance on stored internal fluid supplies  
+(A) I only  
+(B) II only  
+(C) I and II only  
+(D) II and III only  
+(E) I, II, and III  
+263. It can be inferred from the passage that some mechanis ms that regulate internal 
+body temperature, like sweating and panting, can lead to which of the following?  
+(A) A rise in the external body temperature  
+(B) A drop in the bodys internal fluid level  
+(C) A decrease in the osmotic pressure of the blood   GMAT  283 
+ (D) A d ecrease in the amount of renal water loss  
+(E) A decrease in the urines salt content  
+264. It can be inferred from the passage that the author characterizes the camels 
+kidney as entirely unexceptional (line 24) primarily to emphasize that it  
+(A) functions much as the kidney of a rat function s 
+(B) does not aid the camel in coping with the exceptional water loss resulting 
+from the extreme conditions of its environment  
+(C) does not enable the camel to excrete as much salt as do the kidneys of marine 
+vertebrates  
+(D) is similar in structure to the  kidneys of most mammals living in 
+water -deprived environments  
+(E) requires the help of other organs in eliminating excess salt

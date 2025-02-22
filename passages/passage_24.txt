@@ -1,0 +1,124 @@
+In choosing a method for determining climatic conditions that existed in the past, 
+paleoc limatologists invoke four principal criteria. First, the material rocks, lakes, vegetation, 
+etc.on which the method relies must be widespread enough to provide plenty of information, 
+since analysis of material that is rarely encountered will not permit co rrelation with other 
+regions or with other periods of geological history. Second, in the process of formation, the 
+material must have received an environmental signal that reflects a change in climate and that 
+can be deciphered by modern physical or chemic al means. Third, at least some of the material 
+must have retained the signal unaffected by subsequent changes in the environment. Fourth, it 
+must be possible to determine the time at which the inferred climatic conditions held. This last 
+criterion is more easily met in dating marine sediments, because dating of only a small number 
+of layers in a marine sequence allows the age of other layers to be estimated fairly reliably by 
+extrapolation and interpolation. By contrast, because sedimentation is much less c ontinuous in 
+continental regions, estimating the age of a continental bed from the known ages of beds 
+above and below is more risky.  
+One very old method used in the investigation of past climatic conditions involves the 
+measurement of water levels in ancie nt lakes. In temperate regions, there are enough lakes for 
+correlations between them to give us a reliable picture. In arid and semiarid regions, on the 
+other hand, the small number of lakes and the great distances between them reduce the 
+possibilities for  correlation. Moreover, since lake levels are controlled by rates of evaporation as 
+well as by precipitation, the interpretation of such levels is ambiguous. For instance, the fact 
+that lake levels in the semiarid southwestern United States appear to have been higher during 
+the last ice age than they are now was at one time attributed to increased precipitation. On the 
+basis of snow -line elevations, however, it has been concluded that the climate then was not 
+necessarily wetter than it is now, but rather th at both summers and winters were cooler, 
+resulting in reduced evaporation.  
+Another problematic method is to reconstruct former climates on the basis of pollen 
+profiles. The type of vegetation in a specific region is determined by identifying and counting 
+the various pollen grains found there. Although the relationship between vegetation and 
+climate is not as direct as the relationship between climate and lake levels, the method often 
+works well in the temperate zones. In arid and semiarid regions in which t here is not much 
+vegetation, however, small changes in one or a few plant types can change the picture 
+dramatically, making accurate correlations between neighboring areas difficult to obtain.  
+1. Which of the following statements about the difference betwe en marine and 
+continental sedimentation is supported by information in the passage?  
+(A) Data provided by dating marine sedimentation is more consistent with 
+researchers findings in other disciplines than is data provided by dating 
+continental sedimentatio n. 
+(B) It is easier to estimate the age of a layer in a sequence of continental 
+sedimentation than it is to estimate the age of a layer in a sequence of marine 
+sedimentation.   GMAT  71 
+ (C) Marine sedimentation is much less widespread than continental 
+sedimentation.  
+(D) Researchers are more often forced to rely on extrapolation when dating a 
+layer of marine sedimentation than when dating a layer of continental 
+sedimentation.  
+(E) Marine sedimentation is much more continuous than is continental 
+sedimentation.  
+2. Which of the following statements best describes the organization of the passage 
+as a whole?  
+(A) The author describes a method for determining past climatic conditio ns and 
+then offers specific examples of situations in which it has been used.  
+(B) The author discusses the method of dating marine and continental sequences 
+and then explains how dating is more difficult with lake levels than with 
+pollen profiles.  
+(C) The author describes the common requirements of methods for determining 
+past climatic conditions and then discusses examples of such methods.  
+(D) The author describes various ways of choosing a material for determining 
+past climatic conditions and then discuss es how two such methods have 
+yielded contradictory data.  
+(E) The author describes how methods for determining past climatic conditions 
+were first developed and then describes two of the earliest known methods.  
+3. It can be inferred from the passage that  paleoclimatologists have concluded which 
+of the following on the basis of their study of snow -line elevations in the 
+southwestern United States?  
+(A) There is usually more precipitation during an ice age because of increased 
+amounts of evaporation.  
+(B) The re was less precipitation during the last ice age than there is today.  
+(C) Lake levels in the semiarid southwestern United States were lower during the 
+last ice age than they are today.  
+(D) During the last ice age, cooler weather led to lower lake levels t han 
+paleoclimatologists had previously assumed.  
+(E) The high lake levels during the last ice age may have been a result of less 
+evaporation rather than more precipitation.  
+4. Which of the following would be the most likely topic for a paragraph that 
+logically continues the passage?  
+(A) The kinds of plants normally found in arid regions  
+(B) The effect of variation in lake levels on pollen distribution  
+(C) The material best suited to preserving signals of climatic changes  
+(D) Other criteria invoked by pale oclimatologists when choosing a method to 
+determine past climatic conditions  72 GMAT, GRE, LSAT    
+ (E) A third method for investigating past climatic conditions  
+5. The author discusses lake levels in the southwestern United States in order to  
+(A) illustrate the mechanics of the relationship between lake level, evaporation, 
+and precipitation  
+(B) prov ide an example of the uncertainty involved in interpreting lake levels  
+(C) prove that there are not enough ancient lakes with which to make accurate 
+correlations  
+(D) explain the effects of increased rates of evaporation on levels of precipitation  
+(E) su ggest that snow -line elevations are invariably more accurate than lake 
+levels in determining rates of precipitation at various points in the past  
+6. It can be inferred from the passage that an environmental signal found in 
+geological material would not be useful to paleoclimatologists if it  
+(A) had to be interpreted by modern chemical means  
+(B) reflected a change in climate rather than a long -term climatic condition  
+(C) was incorporated into a material as the material was forming  
+(D) also reflected subseque nt environmental changes  
+(E) was contained in a continental rather than a marine sequence  
+7. According to the passage, the material used to determine past climatic conditions 
+must be widespread for which of the following reasons?  
+I. Paleoclimatologists need to make comparisons between periods of 
+geological history.  
+II. Paleoclimatologists need to compare materials that have supported a wide 
+variety of vegetation.  
+III. Paleoclimatologists need to make comparisons with data collected in other 
+regions.  
+(A) I only 
+(B) II only 
+(C) I and II only 
+(D) I and III only 
+(E) II and III only 
+8. Which of the following can be inferred from the passage about the study of past 
+climates in arid and semiarid regions?  
+(A) It is sometimes more difficult to determine past climatic conditions in arid 
+and semiarid regions than in temperate regions.  
+(B) Although in the past more research has been done on temperate regions, 
+paleoclimatologists have recently turned their attention to arid and semiarid 
+regions.  
+(C) Although more information about past climates can be gathered in arid a nd  GMAT  73 
+ semiarid than in temperate regions, dating this information is more difficult.  
+(D) It is difficult to study the climatic history of arid and semiarid regions 
+because their climates have tended to vary more than those of temperate 
+regions.  
+(E) The study of past climates in arid and semiarid regions has been neglected 
+because temperate regions support a greater variety of plant and animal life.

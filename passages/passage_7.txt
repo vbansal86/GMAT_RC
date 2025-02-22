@@ -1,0 +1,101 @@
+Virtually everything astronomers known about objects outside the solar system is based on 
+the detection of photons quanta of electromagnetic radiation. Yet there is another form of 
+radiation that permeates the universe : neutrinos. With (as its name implies) no electric charge, 
+and negligible mass, the neutrino interacts with other particles so rarely that a neutrino can 
+cross the entire universe, even traversing substantial aggregations of matter, without being 
+absorbed  or even deflected. Neutrinos can thus escape from regions of space where light and 
+other kinds of electromagnetic radiation are blocked by matter. Furthermore, neutrinos carry 
+with them information about the site and circumstances of their production: the refore, the 
+detection of cosmic neutrinos could provide new information about a wide variety of cosmic 
+phenomena and about the history of the universe.  
+But how can scientists detect a particle that interacts so infrequently with other matter? 
+Twenty -five y ears passed between Paulis hypothesis that the neutrino existed and its actual 
+detection: since then virtually all research with neutrinos has been with neutrinos created 
+artificially in large particle accelerators and studied under neutrino microscopes. But a neutrino 
+telescope, capable of detecting cosmic neutrinos, is difficult to construct. No apparatus can 20 GMAT, GRE, LSAT    
+ detect neutrinos unless it is extremely massive, because great mass is synonymous with huge 
+numbers of nucleons (neutrons and protons), and the mor e massive the detector, the greater 
+the probability of one of its nucleons reacting with a neutrino. In addition, the apparatus must 
+be sufficiently shielded from the interfering effects of other particles.  
+Fortunately, a group of astrophysicists has prop osed a means of detecting cosmic 
+neutrinos by harnessing the mass of the ocean. Named DUMAND, for Deep Underwater Muon  
+and Neutrino Detector, the project calls for placing an array of light sensors at a depth of five 
+kilometers under the ocean surface. The detecting medium is the seawater itself: when a 
+neutrino interacts with a particle in an atom of seawater , the re sult is a cascade of electrically 
+charged particles and a flash of light that can be detected by the sensors. The five kilometers of 
+seawater above the sensors will shield them from the interfering effects of other high -energy 
+particles raining down throug h the atmosphere.  
+The strongest motivation for the DUMAND project is that it will exploit an important source 
+of information about the universe. The extension of astronomy from visible light to radio waves 
+to x-rays and gamma rays never failed to lead to t he discovery of unusual objects such as radio 
+galaxies, quasars, and pulsars. Each of these discoveries came as a surprise. Neutrino 
+astronomy will doubtless bring its own share of surprises.  
+1. Which of the following titles best summarizes the passage as a whole?  
+(A) At the Threshold of Neutrino Astronomy  
+(B) Neutrinos and the History of the Universe  
+(C) The Creation and Study of Neutrinos  
+(D) The DUMAND System and How It Works  
+(E) The Properties of the Neutrino  
+2. With which of the following statements regarding neutrino astronomy would the 
+author be most likely to agree?  
+(A) Neutrino astronomy will supersede all present forms of astronomy.  
+(B) Neutrino astronomy will be aba ndoned if the DUMAND project fails.  
+(C) Neutrino astronomy can be expected to lead to major breakthroughs in 
+astronomy.  
+(D) Neutrino astronomy will disclose phenomena that will be more surprising 
+than past discoveries.  
+(E) Neutrino astronomy will always  be characterized by a large time lag between 
+hypothesis and experimental confirmation.  
+3. In the last paragraph, the author describes the development of astronomy in order 
+to 
+(A) suggest that the potential findings of neutrino astronomy can be seen as par t 
+of a series of astronomical successes  
+(B) illustrate the role of surprise in scientific discovery  
+(C) demonstrate the effectiveness of the DUMAND apparatus in detecting 
+neutrinos   GMAT  21 
+ (D) name some cosmic phenomena that neutrino astronomy will illuminate  
+(E) contrast the motivation of earlier astronomers with that of the astrophysicists 
+working on the DUMAND project  
+4. According to the passage, one advantage that neutrinos have for studies in 
+astronomy is that they  
+(A) have been detected for the last t wenty -five years  
+(B) possess a variable electric charge  
+(C) are usually extremely massive  
+(D) carry information about their history with them  
+(E) are very similar to other electromagnetic particles  
+5. According to the passage, the primary use of the app aratus mentioned in lines 
+24-32 would be to  
+(A) increase the mass of a neutrino  
+(B) interpret the information neutrinos carry with them  
+(C) study the internal structure of a neutrino  
+(D) see neutrinos in distant regions of space  
+(E) detect the presence of cosmic neutrinos  
+6. The passage states that interactions between neutrinos and other matter are  
+(A) rare  
+(B) artificial  
+(C) undetectable  
+(D) unpredictable  
+(E) hazardous  
+7. The passage mentions which of the following as a reason that neutrinos are har d 
+to detect?  
+(A) Their pervasiveness in the universe  
+(B) Their ability to escape from different regions of space  
+(C) Their inability to penetrate dense matter  
+(D) The similarity of their structure to that of nucleons  
+(E) The infrequency of their interac tion with other matter  
+8. According to the passage, the interaction of a neutrino with other matter can 
+produce  
+(A) particles that are neutral and massive  
+(B) a form of radiation that permeates the universe  
+(C) inaccurate information about the site and cir cumstances of the neutrinos 
+production  
+(D) charged particles and light  22 GMAT, GRE, LSAT    
+ (E) a situation in which light and other forms of electromagnetic radiation are 
+blocked  
+9. According to the passage, one of the methods used to establish the properties of 
+neutrinos was  
+(A) detection of photons  
+(B) observation of the interaction of neu trinos with gamma rays  
+(C) observation of neutrinos that were artificially created  
+(D) measurement of neutrinos that interacted with particles of seawater  
+(E) experiments with electromagnetic radiation

@@ -1,0 +1,67 @@
+The sensation of pain  cannot accurately be described as located at the point of an injury, 
+or, for that m atter, in any one place in the nerves or brain. Rather, pain signals and pain 
+reliefare delivered through a highly complex interacting circuitry.  
+When a cell is injured, a rush of prostaglandins sensitizes ne rve endings at the injury.  GMAT  103 
+ Prostaglandins are chemicals produced in and released from virtually all mammalian cells when 
+they are injured: these are the only pain signals that do not originate in the nervous system. 
+Aspirin and other similar drugs (such as  indomethacin and ibuprofen) keep prostaglandins from 
+being made by interfering with an enzyme known as prostaglandin synthetase, or 
+cyclooxygenase. The drugs effectiveness against pain is proportional to their success in 
+blocking this enzyme at the site of injury.  
+From nerve endings at the injury, pain signa ls move to nerves feeding into the spinal cord . 
+The long, tubular membranes of nerve cells carry electrical impulses. When electrical impulses 
+get to the spinal cord, a pain -signaling chemical known as substance P is released there. 
+Substance P then excites nearby neurons to send impulses to the br ain. Local anesthetics such 
+as novocaine and xylocaine work by blocking the electrical transmission along nerves in a 
+particular area. They inhibit the flow of sodium ions through the membranes, making the 
+nerves electrically quiescent; thus no pain signal s are sent to the spinal cord or to the brain.  
+Recent discoveries in the study of pain have involved the brain itself the supervising 
+organ that notices pain signals and that sends messages down to the spinal cord to regulate 
+incoming pain traffic. Endorph insthe brains own morphine are a class of small peptides that 
+help to block pain signals within the brain itself. The presence of endorphins may also help to 
+explain differences in response to pain signals, since individuals seem to differ in their abili ty to 
+produce endorphins. It now appears that a number of techniques for blocking chronic 
+painsuch as acupuncture and electrical stimulation of the central brain stem involve the 
+release of endorphins in the brain and spinal cord.  
+1. The passage is primarily concerned with  
+(A) analyzing ways that enzymes and other chemicals influence how the body 
+feels pain  
+(B) describing the presence of endorphins in the brain and discussing ways the 
+body blocks pain within the brain itself  
+(C) describing how pain signals are conveyed in the body and discussing ways in 
+which the pain signals can be blocked  
+(D) demonstrating that pain can be influenced by acupuncture and electrical 
+stimulation of the central brain stem  
+(E) differentiating the kinds of pain that occur at different points in the bodys 
+nervous system  
+2. According to the passage, which of the following is one of the first things to 
+occur when cells are injured?  
+(A) The flow of electrical impulses throug h nerve cells at the site of the injury is 
+broken.  
+(B) The production of substance P traveling through nerve cells to the brain 
+increases.  
+(C) Endorphins begin to speed up the response of nerve cells at the site of the 
+injury.  
+(D) A flood of prostaglandins  sensitizes nerve endings at the site of the injury.  104 GMAT, GRE, LSAT    
+ (E) Nerve cells connected to the spinal cord become electrically quiescent.  
+3. Of the following, which is most likely attributable to the effect of endorphins as 
+described in the passage?  
+(A) After an injection of novocaine, a patient has no feeling in  the area where the 
+injection was given.  
+(B) After taking ibuprofen, a person with a headache gets quick relief.  
+(C) After receiving a local anesthetic, an injured person reports relief in the 
+anesthetized area.  
+(D) After being given aspirin, a child with a badly scraped elbow feels better.  
+(E) After acupuncture, a patient with chronic back pain reports that the pain is 
+much less severe.  
+4. It can be inferred from the passage that if the prostaglandin synthetase is only 
+partially blocked, which of the following is likely to be true?  
+(A) S ome endorphins will be produced, and some pain signals will be intensified.  
+(B) Some substance P is likely to be produced, so some pain signals will reach the 
+brain.  
+(C) Some sodium ions will be blocked, so some pain signals will not reach the 
+brain.  
+(D) S ome prostaglandins will be produced, but production of substance P will be 
+prevented.  
+(E) Some peptides in the brain will receive pain signals and begin to regulate 
+incoming pain traffic.

@@ -1,0 +1,89 @@
+Although numbers of animals in a given region may fluctuate from year to year, the 
+fluctuations are often temporary and, over long periods, trivial. Scientists have advanced three 
+theories of population control to account for this relative constancy.  
+The first theory attributes a relatively constant population to periodic climatic catastrophes 
+that decimate populations with such frequency as to prevent them from exceeding some 
+particular limit. In the case of small organisms with short life cycles, climatic changes need not 
+be catastrophic: normal seasonal changes in photoperiod (daily amount of sunlight), for 
+example, can govern population growth. This theory the density -independent view asserts 
+that climatic factors exert the same regulatory effect on population regardless of the number of 
+individuals in a region.  
+A second theory argues that population growth is primarily density -dependent that is, the 
+rate of gr owth of a population in a region decreases as the number of animals increases. The 
+mechanisms that manage regulation may vary. For example, as numbers increase, the food 
+supply would probably diminish, which would increase mortality. In addition, as Lotka and 
+Volterra have shown, predators can find prey more easily in high -density populations. Other 
+regulators include physiological control mechanisms: for example , Christian and Davis have 
+demonstrated how the crowding that results from a rise in numbers may  bring about hormonal 
+changes in the pituitary and adrenal  glands that in turn may regulate population by lowering 
+sexual activity and inhibiting sexual maturation. There is evidence that these effects may 
+persist for three generations in the absence of th e original provocation. One challenge for 
+density -dependent theorists is to develop models that would allow the precise prediction of the 
+effects of crowding.  
+A third theory, proposed by Wynne -Edwards and termed epideictic , argues that 
+organisms have evo lved a code in the form of social or epideictic behavior displays, such as 
+winter -roosting aggregations or group vocalizing; such codes provide organisms with 
+information on population size in a region so that they can, if necessary, exercise reproductiv e  GMAT  143 
+ restraint. However, Wynne -Edwards theory, linking animal social behavior and population 
+control, has been challenged, with some justification, by several studies.  
+1. The primary purpose of the passage is to  
+(A) argue against those scientists who maintai n that animal populations tend to 
+fluctuate  
+(B) compare and contrast the density -dependent and epideictic theories of 
+population control  
+(C) provide example of some of the ways in which animals exercise reproductive 
+restraint to control their own numbers  
+(D) suggests that theories of population control that concentrate on the social 
+behavior of animals are more open to debate than are theories that do not  
+(E) summarize a number of scientific theories that attempt to explain why animal 
+populations do not exceed certain limits  
+2. It can be inferred from the passage that proponents of the density -dependent 
+theory of population control have not yet been able to  
+(A) use their theory to explain the population growth of organisms with short life 
+cycles  
+(B) repro duce the results of the study of Christian and Davis  
+(C) explain adequately why the numbers of a population can increase as the 
+populations rate of growth decreases  
+(D) make sufficiently accurate predictions about the effects of crowding  
+(E) demonstrate how predator populations are themselves regulated  
+3. Which of the following, if true, would best support the density -dependent theory 
+of population control as it is described in the passage?  
+(A) As the number of foxes in Minnesota decre ase, the growth rate of this 
+population of foxes begins to increase.  
+(B) As the number of woodpeckers in Vermont decreases, the growth rate of this 
+population of woodpeckers also begins to decrease.  
+(C) As the number of prairie dogs in Oklahoma increases, the growth rate of this 
+population of prairie dogs also begins to increase.  
+(D) After the number of beavers in Tennessee decreases, the number of predators 
+of these beavers begins to increase.  
+(E) After the number of eagles in Montana decreases, the food supply of this 
+population of eagles also begins to decrease.  
+4. According to the Wynne -Edwards theory as it is described in the passage, 
+epideictic behavior displays serve the function of  
+(A) determining roosting aggregations  
+(B) locating food  
+(C) attracting predators  144 GMAT, GRE, LSAT    
+ (D) regulating sexual activity  
+(E) triggering hormonal changes  
+5. The challenge posed to the Wynne -Edwards -theory by several studies is regarded 
+by the author with  
+(A) comple te indifference  
+(B) qualified acceptance  
+(C) skeptical amusement  
+(D) perplexed astonishment  
+(E) agitated dismay  
+6. Which of the following statements would provide the most of logical 
+continuation of the final paragraph of the passage?  
+(A) Thus Wynne -Edwards theory raises serious questions about the constancy of 
+animal population in a region.  
+(B) Because Wynne -Edwards theory is able to explain more kinds of animal 
+behavior than is the density -dependent theory, epideictic explanations of 
+population regul ation are now widely accepted.  
+(C) The results of one study, for instance, have suggested that group vocalizing is 
+more often used to defend territory than to provide information about 
+population density.  
+(D) Some of these studies have, in fact, worked out  a systematic and complex 
+code of social behavior that can regulate population size.  
+(E) One study, for example, has demonstrated that birds are more likely to use 
+winter -roosting aggregations than group vocalizing in order to provide 
+information on pop ulation size.

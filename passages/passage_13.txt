@@ -1,0 +1,113 @@
+Nearly a century ago, biologists found that if they separated an invertebrate animal embryo 
+into two parts at an early stage of its life, it would survive and develop as tw o normal embryos. 
+This led them to believe that the cells in the early embryo are undetermined in the sense that 
+each cell has the potential to develop in a variety of different ways. Later biologists found that 
+the situation was not so simple. It matters in which plane the embryo is cut. If it is cut in a plane 
+different from the one used by the early investigators, it will not form two whole embryos.  
+A debate arose over what exactly was happening. Which embryo cells are determined, just 
+when do they  becom e irreversibly committed to their fates, and what are the morphogenetic 
+determinants that tell a cell what to become? But the debate could not be resolved because no 
+one was able to ask the crucial questions in a form in which they could be pursued produ ctively. 
+Recent discoveries in molecular biology, however, have opened up prospects for a resolution of 
+the debate. Now investigators think they know at least some of the molecules that act as 
+morphogenetic determinants in early development. They have been  able to show that, in a 
+sense, cell determination begins even before an egg is fertilized.  
+Studying sea urchins , biolog ist Paul Gross found that an unfertilized egg contains 
+substances that function as morphogenetic determinants. They are located in the cytoplasm of 
+the egg cell; i.e., in that part of the cells protoplasm that lies outside of the nucleus. In the 
+unfertili zed egg, the substances are inactive and are not distributed homogeneously. When the 
+egg is fertilized, the substances become active and, presumably, govern the behavior of the 
+genes they interact with. Since the substances are unevenly distributed in the egg, when the 
+fertilized egg divides, the resulting cells are different from the start and so can be qualitatively 
+different in their own gene activity.  
+The substances that Gross studied are maternal messenger RNAs products of certain of 
+the maternal gene s. He and other biologists studying a wide variety of organisms have found 
+that these particular RNAs direct, in large part, the synthesis of histones, a class of proteins 
+that bind to DNA. Once synthesized, the histones move into the cell nucleus, where section of 
+DNA wrap around them to form a structure that resembles beads, or knots, on a string. The 
+beads are DNA segments wrapped around the histones; the string is the intervening DNA. And 
+it is the structure of these beaded DNA strings that guide the f ate of the cells in which they are 
+located.  
+1. The passage is most probably directed at which kind of audience?  
+(A) State legislators deciding about funding levels for a state -funded biological 
+laboratory  
+(B) Scientists specializing in molecular genetics  
+(C) Readers of an alumni newsletter published by the college that Paul Gross 
+attended  
+(D) Marine biologists studying the processes that give rise to new species  
+(E) Undergraduate biology majors in a molecular biology course  38 GMAT, GRE, LSAT    
+ 2. It can be inferred from the  passage that the morphogenetic determinants present 
+in the early embryo are  
+(A) located in the nucleus of the embryo cells  
+(B) evenly distributed unless the embryo is not developing normally  
+(C) inactive until the embryo cells become irreversibly committe d to their final 
+function  
+(D) identical to those that were already present in the unfertilized egg  
+(E) present in larger quantities than is necessary for the development of a single 
+individual  
+3. The main topic of the passage is  
+(A) the early development of embryos of lower marine organisms  
+(B) the main contribution of modern embryology to molecular  biology  
+(C) the role of molecular biology in disproving older theories of embryonic 
+development  
+(D) cell determination as an issue in the study of embryonic development  
+(E) scientific dogma as a factor in the recent debate over the value of molecular 
+biology  
+4. According to the passage, when biologists believed that the cells in the early 
+embryo were undetermined, they made which of the following mistakes?  
+(A) They did not attempt to replicate the original experiment of separating an 
+embryo into two par ts. 
+(B) They did not realize that there was a connection between the issue of cell 
+determination and the outcome of the separation experiment.  
+(C) They assumed that the results of experiments on embryos did not depend on 
+the particular animal species used for such experiments.  
+(D) They assumed that it was crucial to perform the separation experiment at an 
+early stage in the embryos life.  
+(E) They assumed that different ways of separating an embryo into two parts 
+would be equivalent as far as the fate of  the two parts was concerned.  
+5. It can be inferred from the passage that the initial production of histones after an 
+egg is fertilized takes place  
+(A) in the cytoplasm  
+(B) in the maternal genes  
+(C) throughout the protoplasm  
+(D) in the beaded portions of t he DNA strings  
+(E) in certain sections of the cell nucleus  
+6. It can be inferred from the passage that which of the following is dependent on 
+the fertilization of an egg?   GMAT  39 
+ (A) Copying of maternal genes to produce maternal messenger RNAs  
+(B) Synthesis of proteins call ed histones  
+(C) Division of a cell into its nucleus and the cytoplasm  
+(D) Determination of the egg cells potential for division  
+(E) Generation of all of a cells morphogenetic determinants  
+7. According to the passage, the morphogenetic determinants pre sent in the 
+unfertilized egg cell are which of the following?  
+(A) Proteins bound to the nucleus  
+(B) Histones  
+(C) Maternal messenger RNAs  
+(D) Cytoplasm  
+(E) Nonbeaded intervening DNA  
+8. The passage suggests that which of the following plays a role in det ermining 
+whether an embryo separated into two parts will develop as two normal embryos?  
+I. The stage in the embryos life at which the separation occurs  
+II. The instrument with which the separations is accomplished  
+III. The plane in which the cut is made t hat separates the embryo  
+(A) I only  
+(B) II only 
+(C) I and II only 
+(D) I and III only 
+(E) I, II, and III 
+9. Which of the following circumstances is most comparable to the impasse 
+biologists encountered in trying to resolve the debate about cell determination 
+(lines 12 -18)? 
+(A) The problems faced by a literary scholar who wishes to use o riginal source 
+materials that are written in an unfamiliar foreign language  
+(B) The situation of a mathematician who in preparing a proof of a theorem for 
+publication detects a reasoning error in the proof  
+(C) The difficulties of a space engineer who has t o design equipment to function 
+in an environment in which it cannot first be tested  
+(D) The predicament of a linguist trying to develop a theory of language 
+acquisition when knowledge of the structure of language itself is 
+rudimentary at best  
+(E) The dilemma confronting a foundation when the funds available to it are 
+sufficient to support one of two equally deserving scientific projects but not 
+both 40 GMAT, GRE, LSAT 

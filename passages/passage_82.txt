@@ -1,0 +1,113 @@
+Astrophysicists wre stling with the study of a new kind of star, the flat, two-dimensional  
+configurations known as accretion disks have recently gained new insights  into the behavior of 
+these stars. Accretion disks exist in a variety of situations where matters swirl around  a compact 
+star such as a white dwarf star or a neutron star. Accretion disks are also suspected of playing a 
+part in  more exotic situations, in which the central object is imagined to be a supermassive 
+black hole, the ultimate form of collapsed matter, ra ther than a compact star. The modeling of 
+accretion disks is still in its infancy, a situation analogous to the days when ordinary stars were 
+modeled by using elementary scaling laws without benefit of knowledge of the nuclear 
+processes that power the star s. Similarly, the basic physics of the power by which accretion 
+disks radiate, thought to or iginate in a form of turbulent friction, is known only at the crudest 
+level. 
+Accretion disks were first defined in the context of Cataclysmic variables. In these sy stems, 
+matter from the outer layers of an ordinary star is attracted by the gravitational influence of a 
+nearby orbiting white dwarf star, the matter lost from the ordinary star cannot strike the surface 
+of the tiny white dwarf directly but settles into an  orbit around the star. The viscosity in the disk 
+thus formed causes heating, radiation, and a slow spiraling of disk matter onto the surface of 
+the white dwarf.  
+The rapid advances made in x -ray astronomy in the past decade have identified a second 
+type of  system in which accretion disks occur. In such a system, an accretion disk whirls about 
+a neutron star rather than a white  dwarf. The inner reaches of the accretion disk extend deeply 
+into the gravitational potential of the neutron star where very rapid m otion is the rule. The 
+energy released by friction and the actual raining of the material from the disk onto the surface 
+of the neutron star is so great that radiation is given off in a powerful flood of x -rays. And in at 
+least one case, x -ray astronomers believe that the object in the center of an accretion disk is a 
+black hole, suggesting that a third system may exist.  
+It had been assumed that portions of accretion disks would be unstable and that, as a 
+result, clumping of their matter into rings would oc cur. There is no evidence from observation, 
+however, that accretion disks do, in fact, suffer from these instabilities. In recent work, 
+Abramowicz has shown that added gravitational effects due to general relativity may alter the 
+expected Newtonian gravita tional relationships in such a way that the disk remains stable, 
+indicating that it is possible that these predicted instabilities do not occur.  
+Further progress toward understanding accretion disks will involve defining and proposing 
+solutions to restrict ed problems just as was done in this case and was done and continues to be 
+done for ordinary stars. Abramowicz  work is a valuable example of the care that must be taken 
+before reac hing conclusions regarding accretion disks.   GMAT  213 
+ 1. The author of the passage is primarily concerned with  
+(A) comparing Abramowicz  work to the work of earlier astrophysicists  
+(B) providing information about accretion disks and discussing significant new 
+work  
+(C) defining the conditions under which accretion disks can be observed  
+(D) exploring the question of whether a black hole can ever be the central object 
+of an accretion disk  
+(E) describing the phenomenon of accretion disks and reviewing several 
+conflicting theories of their origins  
+2. It can be inferred from the passage that predictions of the instability of accretion 
+disks were based on which of the following?  
+(A) A calcu lation of the probable effects of standard Newtonian gravitational 
+relationships  
+(B) A calculation of the probable relationship between general relativity and 
+standard Newtonian gravitational relationships  
+(C) A calculation of the energy released by fricti on within a compact star  
+(D) Observation of the x -rays radiated by compact stars  
+(E) Observation of the clumping of accretion disk matter into rings around 
+compact stars  
+3. The author s attitude toward Abramowicz  work can best be described as one of  
+(A) uncertain approval  
+(B) unqualified respect  
+(C) mild interest  
+(D) careful dismi ssal 
+(E) hostile skepticism  
+4. The passage suggests which of the following about current scientific knowledge 
+of the nuclear processes of ordinary stars?  
+(A) Its pattern of development has been analogous to that of developments in 
+x-ray astronomy.  
+(B) I ts role in the explanation of turbulent friction has been significant.  
+(C) It has contributed to a more accurate modeling of ordinary stars.  
+(D) It lags behind knowledge of scaling laws.  
+(E) It explains the behavior of accretion disks as well as that of  ordinary stars.  
+5. The passage suggests that Abramowicz  work was motivated by which of the 
+following assumptions?  
+(A) The quantity of energy released by accretion disks can be as large as it is only 
+if the disks are stable.  
+(B) Improved techniques in x -ray astronomy would reveal any instabilities 214 GMAT, GRE, LSAT    
+ occurring in accretion disks.  
+(C) The lack of observational evidence of instabilities in accretion disks suggests 
+that predictions of their occurrence might be wrong.  
+(D) Known methods of observing accretion disk  surrounding compact stars and 
+black holes do not permit the observation of the matter in accretion disks.  
+(E) The gravitational potential of compact stars does not vary from star to star.  
+6. The passage implies which of the following about the progress  of knowledge in 
+astrophysics?  
+(A) Adherence to outdated theories has, in the past, limited the activities of 
+astrophysicists and restricted progress.  
+(B) Progress has, in the past, occurred only as a result of significant 
+breakthroughs in basic physics an d chemistry.  
+(C) Progress has, in the past, occurred as a result of a process of defining and 
+solving restricted problems.  
+(D) Given the recent acquisition of knowledge about the nuclear processes of 
+stars, further progress is likely to be limited to the r efinement of what is 
+already  known.  
+(E) Conclusions in astrophysics have, in the past, been seriously flawed, thus 
+limiting progress, although there have recently been signs of change.  
+7. The passage suggests that, compared to the study of ordinary star s, the study of 
+accretion disks is  
+(A) derivative  
+(B) more sophisticated  
+(C) less clearly focused  
+(D) at an earlier stage of development  
+(E) more dependent on technological advances  
+8. According to the passage, some accretion disks originated in  
+(A) an increase in heat and radiation around an ordinary star  
+(B) a powerful flood of x -rays emitted by a neutron star  
+(C) a collision between two stars  
+(D) the turbulent friction on the surface of a compact star  
+(E) the accumulation of matter removed from an ordinary star  
+9. It can be inferred from the passage that the significance of Abramowicz  work is 
+that it  
+(A) provides a means of measuring the gravitational potential of neutron stars  
+(B) opens a new area for exploration in the field of x -ray astronomy  
+(C) proves that scaling laws cannot be applied to accretion disks  
+(D) proposes a new system of classification of stars   GMAT  215 
+ (E) suggests a resolution of a discrepancy between a theoretical prediction and 
+actual observation

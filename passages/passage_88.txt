@@ -1,0 +1,140 @@
+(The following passage was written  in 1977.)  
+Changes in the volume of unemployment  are governed by three fundamental forces: the 
+growth of the labor force, t he increase  in output per man -hour, and the growth of total demand 
+for goods and services. Changes in the average hours of work enter in exactly parallel fashion 
+but have been quantitatively less significant. As productivity  rises, less labor is required p er 
+dollar  of national product, or more goods and services can be produced with the same number 
+of man -hours. If output does not grow, employment will certainly fall; if production increases 
+more rapidly than productivity (less any decline in average hours worked), employment must 
+rise. But the labor force grows, too. Unless gross national product (total final expenditure for 
+goods and services corrected for price changes) rises more rapidly than the sum of productivity 
+increase and labor force growth (again  modified for any change in hours of work), the increase 230 GMAT, GRE, LSAT    
+ in employment will be inadequate to absorb the growth in the labor force. Inevitably the 
+unemployment rate will increase. Only when total production expands faster than the rate of 
+labor force growth  plus the rate of productivity increase and minus the rate at which average 
+annual hours fall does the unemployment rate fall. Increases in productivity were more 
+important than growth of the labor force as sources of the wide gains in output experienced i n 
+the period from the end of World War II to the mid -sixties. These increases in potential 
+production simply were not matched by increases in demand adequate to maintain steady full 
+employment.  
+Except for the recession years of 1949, 1954, and 1958, the ra te of economic growth 
+exceeded  the rate of productivity increase. However, in the late 1950s productivity and the 
+labor force were increasing more rapidly than usual, while the growth  of output was slower 
+than usual. This accounted for the change in employ ment rates.  
+But if part of the national purpose is to reduce and contain unemployment, arithmetic is 
+not enough. We must know which of the basic factors we can control and which we wish to 
+control. Unemployment  would have risen more slowly or fallen more r apidly if productivity had 
+increased more slowly, or the labor force had increased more slowly, or the hours of work had 
+fallen more steeply, or total output had grown more rapidly. These are not independent factors, 
+however, and a change in any of them mi ght have caused changes in the  others.  
+A society can choose to reduce the growth of productivity, and it can probably find ways to 
+frustrate its own creativity. However, while a reduction in the growth of productivity at the 
+expense of potential output mig ht result in higher employment in the short run, the long -run 
+effect on the national interest would be disastrous.  
+We must also give consideration to the fact that hidden beneath national  averages is 
+continuous movement into, out of, between, and within la bor markets. For example, 15 years 
+ago, the average number of persons in the labor force was 73.4 million, with about 66.7 million 
+employed and 3.9 million unemployed. Yet 14 million experienced some term of unemployment 
+in that year. Some were new entrant s to the labor force; others were laid off temporarily . The 
+remainder were those who were permanently or indefinitely severed from their jobs. Thus, the 
+average number unemployed during a year understates the actual volume  of involuntary  
+displacement that occurs.  
+High unemployment is not an inevitable result of the pace of technological change but the 
+consequence of passive public policy. We can anticipate a moderate increase in the labor force 
+accompanied  by a slow and irregular decline in hours of work. It follows that the output of the 
+economy and the aggregate demand to buy it must grow by more than 4 percent a year just 
+to prevent the unemployment rate from rising, and by even more if the unemployment rate is to 
+fall further. Yet our economy has seldom,  if ever, grown at a rate greater than 3.5 percent for 
+any extended length of time. We have no cause of complacency . Positive fiscal, monetary, and 
+manpower policies will be needed in the future . 
+1. The primary purpose of the passage is to  
+(A) define the e conomic terms used in the discussion of employment  
+(B) criticize the decisions of past administrations during recession years  
+(C) call for the application of positive economic control policies in the years that  GMAT  231 
+ lie ahead  
+(D) allay current fears about incre asing unemployment  
+(E) document the rise of American productivity since World War II  
+2. According to the passage, if the labor force does not grow and there is no decline 
+in the average number of hours worked, under which of the following conditions 
+will the employment r ate inevitably rise?  
+(A) Total production expands faster than the total demand for goods and services.  
+(B) The total demand for goods and services and productivity  both rise.  
+(C) Output per man -hour and gross national product both rise.  
+(D) Productivity in creases more rapidly than production.  
+(E) Production increases more rapidly than output per man -hour.  
+3. It can be inferred from the passage than in the late 1950s, which of the following 
+occurred?  
+I. The growth in output was less than 3.5 percent.  
+II. The average number of hours worked de clined.  
+III. The increase in output per man -hour was greater than usual.  
+(A) I only  
+(B) II only  
+(C) III only  
+(D) I and III only  
+(E) I, II, and III  
+4. It can be inferred  from the passage that during the recession years of 1949, 1954, 
+and 1958, which of t he following most likely occurred?  
+(A) The labor force increased  more rapidly than it did in any other year between 
+1945 and 1965.  
+(B) More labor was required per dollar of national product than in any other year 
+between 1945 and 1965.  
+(C) The average numb er of hours worked rose.  
+(D) Full employment was attained.  
+(E) The rate of unemployment increased.  
+5. It can be inferred from the passage that if a policy to increase employment by 
+reducing the growth of productivity at the expense of potential output were 
+adopted, the author most likely would regard it as  
+(A) sound but inadequate  
+(B) overly aggressive  
+(C) frivolous  
+(D) insidious  232 GMAT, GRE, LSAT    
+ (E) unobjectionable  
+6. It can be inferred from the passage that, according to the author, the actual 
+number of people who experience  some term of unemployment during any given 
+year 
+(A) is the difference between the number of persons in the labor force and the 
+number of persons employed  that year  
+(B) does not reflect movement into, out of, between, and within labor markets  
+(C) exceeds the average number unemployed during that year  
+(D) overstate the volume of involuntary displacement that occurs during the year  
+(E) is impossible to calculate  
+7. The passage contains information that answers all of the following questions 
+EXCEPT:  
+(A) What is gross national product?  
+(B) What effect does a change in productivity invariably have on gross national 
+product?  
+(C) Unde r what conditions might employment rise in the short run?  
+(D) What effect does an increase in output and a decrease in number of hours 
+worked have on productivity?  
+(E) What was the average number of people unemployed in 1962?  
+8. Which of the following b est describes the organization of the fifth paragraph of 
+the passage?  
+(A) An assertion is made, data are provided to support it, and the assertion is 
+reiterated in different words.  
+(B) Several figures are given and hypothesis is formulated to explain them.  
+(C) An example is given to support the conclusion drawn in the preceding 
+paragraph.  
+(D) A statement is made, data are provided to illustrate and amplify the statement, 
+and a conclusion is drawn.  
+(E) A generalization is made and an example is given to refute it.  
+9. Which of the following proposals best responds to the author s concerns?  
+(A) The government  should manipulate the size of the labor force to prevent 
+future recessions.  
+(B) The govern ment  should maintain some controls  over the economy, but it 
+should allow the employment rate to rise and fall with the gross national 
+product, as a check on labor costs.  
+(C) People should accept that unemployment is undesirable but unavoidable.  
+(D) The government  should manage the economy carefully.  
+(E) The government should not interfere in the interplay among the three forces  GMAT  233 
+ affecting unemployment.  
+10. Which of the following  best summarizes the main idea of the passage?  
+(A) We can and must take steps to ensure that the unemployment rate does no t 
+continue to rise as our population and our use of technology increase.  
+(B) Increases in potential production must be matched by increases in demand in 
+order to maintain steady full employment.  
+(C) High unemployment is not an inevitable result of the pace  of technological 
+change but the consequence of passive public policy.  
+(D) If part of the national purpose is to reduce and contain unemployment, 
+arithmetic is not enough.  
+(E) Full employment , regardless of fluctuations in the economy, is within the 
+realm of possibility.

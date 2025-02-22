@@ -1,0 +1,88 @@
+Methods  for typing blood were developed around the turn of the century, about the same 
+time that fingerprints were first used for identification. Only in the last de cade or two, however, 
+have scientists begun to believe that genetic markers in blood and other bodily fluids may 
+someday prove as useful in crime detection as fingerprints.  
+The standard ABO blood typing has long been used as a form of negative identificati on. 
+Added sophistication came with the discovery of additional  subgroups of genetic markers in 
+blood and with the discovery that genetic markers are present not only in blood but also in 
+other bodily fluids, such as perspiration and saliva.  
+These discoveri es were of little use in crime detection, however, because of the 
+circumstances in which police scientists must work. Rather than a plentiful sample of blood 
+freshly drawn from a patient, the crime laboratory is likely to receive only a tiny fleck of dried  
+blood of unknown age from an unknown donor  on a shirt or a scrap of rag that has spent 
+hours or days exposed to air, high temperature, and other contaminants.   GMAT  255 
+ British scientists found a method for identifying genetic markers more precisely in small 
+samp les. In this process, called electrophoresis, a sample is placed on a tray containing a gel 
+through which an electrical current is then passed. A trained analyst reads the resulting 
+patterns in the gel to determine the presence of various chemical markers.  
+Electrophoresis made it possible to identify several  thousand subgroups of blood types 
+rather than the twelve known before. However, the equipment and special training required 
+were expensive. In addition, the process could lead to the destruction of evid ence. For example, 
+repeated tests of a blood -flecked shirt one for each marker led to increasing deterioration of 
+the evidence and the cost of a week or more of laboratory time.  
+It remained for another British researcher, Brian Wrexall, to demonstrate that  simultaneous 
+analyses, using an inexpensive electrophoresis apparatus , could test for ten different genetic 
+markers within a 24 -hour period. This development made the study of blood and other fluid 
+samples an even more valuable tool for crime  detection.  
+1. The author of the passage is primarily concerned with describi ng 
+(A) how advances in crime detection methods have led to new discoveries in 
+science  
+(B) various ways in which crime detection laboratories assist the police  
+(C) the development of new scientific tools for use in crime detection  
+(D) areas of current resea rch in the science of crime detection  
+(E) developments in genetic research and their application to crime detection  
+2. It can be inferred from the passage that electrophoresis resembles fingerprinting 
+in that both  
+(A) provide a form of negative identification in crime detection  
+(B) were fi rst developed by British scientists  
+(C) may be used to help identify those who were present at the time of a crime  
+(D) were developed by scientists at around the same time  
+(E) must be employed almost immediately after a crime to be effective  
+3. The auth or sets off the word donor  (line 18) with quotation marks in order to  
+(A) emphasize that most of the blood samples received by crime laboratories 
+come from anonymous sources  
+(B) underscore the contrast between the work done in a crime laboratory and th at 
+done in a blood bank  
+(C) call attention to the fact that, because of underfunding, crime laboratories are 
+forced to rely on charitable  contributions  
+(D) show that the word is being used in a technical, rather than a general, sense  
+(E) indicate that the blood samples received by crime laboratories are not given 
+freely  
+4. The passage contains information that would answer which of the following 
+questions?  256 GMAT, GRE, LSAT    
+ (A) Is evidence of genetic markers in bodily fluids admissible in court?  
+(B) Can electrophoresis be used to identify genetic markers in saliva?  
+(C) How many subgroups of blood types are currently  identifiable?  
+(D) How accurate is the process of electrophoresis?  
+(E) How many tests for genetic markers must police scientists run i n order to 
+establish the identity of a criminal?  
+5. According to the passage, all of the following may reduce the usefulness of a 
+fluid sample for crime detection EXCEPT  
+(A) the passage of time  
+(B) discoloration  or staining  
+(C) exposure to heat  
+(D) the sma ll size of the sample  
+(E) exposure to contaminants  
+6. The passage implies that electrophoresis may help scientists determine  
+(A) whether or not a sample of blood could have come from  a particular person  
+(B) the age and condition of a dried specimen of blood or other bodily fluid  
+(C) when and where a crime was probably committed  
+(D) the cause of death in homicide cases  
+(E) the age, gender, and ethnic background of an unknown criminal suspect  
+7. According to the passage, Brian Wrexall s refinement of electrophoresis led to  
+(A) more accurate test results  
+(B) easier availability of fluid samples  
+(C) wider applicability of genetic analysis  
+(D) increased costs of testing  
+(E) more rapid testing  
+8. Which of the following statements about genetic markers can be inferred from the  
+passage?  
+I. They carry an electrical charge.  
+II. They cannot be identified through standard ABO blood  typing.  
+III. They were of no use in crime detection before the invention of 
+electrophoresis.  
+(A) I only  
+(B) II only  
+(C) III only  
+(D) II and III only  
+(E) I, II, and III   GMAT  257

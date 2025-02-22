@@ -1,0 +1,101 @@
+In most earthquakes the Earth s crust cracks like porcelain. Stress builds up  until a fracture 
+forms at a depth of a fe w kilometers and the crust slips to relieve the stress. Some earthquakes, 
+however, take place hundreds of kilometers down in the Earth s mantle, where high pressure 
+makes rock so ductile that it flows instead of cracking, even under stress severe enough to  
+deform it like putty. How can there be earthquakes at such depths?  
+That such deep events do occur has been accepted only since 1927, when the seismologist 
+Kiyoo  Wadati convincingly demonstrated their existence. Instead of comparing the arrival times 
+of seismic waves at different locations, as earlier researchers had done. Wadati relied on a time 
+difference between the arrival of primary (P) waves and the slower secondary (S) waves. 
+Because P and S waves travel at different but fairly constant speeds, the i nterval between their 
+arrivals increases in proportion to  the distance from the earthquake focus , or rupture point.  
+For most earthquakes, Wadati discovered, the interval was quite short near the epicenter , 
+the point on the surface where shaking is strongest. F or a few events, however, the delay was 
+long even at the epicenter. Wadati saw a similar pattern when he analyzed data on the intensity  GMAT  199 
+ of shaking. Most earthquakes had a small area of intense shaking, which weakened rapidly with 
+increasing distance from t he epicenter, but others were characterized by a lower peak intensity, 
+felt over a broader area. Both the P -S intervals and the intensity patterns suggested two kinds 
+of earthquakes: the more common shallow events, in which the focus lay just under the 
+epicenter, and deep events, with a focus several hundred kilometers down.  
+The question remained: how can such quakes occur, given  that mantle rock at a depth of 
+more than 50  kilometers is too ductile to store enough stress to fracture? Wadati s work 
+suggested that deep events occur in areas (now called Wadati -Benioff zones) where one crustal 
+plate is forced under anoth er and descends into the mantle. The descending rock is 
+substantially cooler than the surrounding mantle and hence is less ductile and much more liable 
+to fracture.  
+1. The passage is primarily concerned with  
+(A) demonstrating why the methods of early seism ologists were flawed  
+(B) arguing that deep events are poorly understood and deserve further study  
+(C) defending a revolutionary theory about the causes of earthquakes and 
+methods of predicting them  
+(D) discussing evidence for the existence of deep events a nd the conditions that 
+allow them to occur  
+(E) comparing the effects of shallow events with those of deep events  
+2. The author uses the comparisons to porcelain and putty (lines 2 and 8) in order to  
+(A) explain why the Earth s mantle is under great pressure  
+(B) distinguish the earthquake s epic enter from its focus  
+(C) demonstrate the conditions under which a Wadati -Benioff zone forms  
+(D) explain why S waves are slower than P waves  
+(E) illustrate why the crust will fracture but the mantle will not  
+3. It can be inferred from the passage that if  the S waves from an earthquake arrive 
+at a given location long after the P waves, which of the following must be true?  
+(A) The earthquake was a deep event.  
+(B) The earthquake was a shallow event.  
+(C) The earthquake focus was distant.  
+(D) The earthquake fo cus was nearby.  
+(E) The earthquake had a low peak intensity.  
+4. The method used by Wadati to determine the depths of earthquakes is most like 
+which of the following?  
+(A) Determining the depth of a well by dropping stones into the well and timing 
+how long they take to reach the bottom  
+(B) Determining the height of a mountain by measuring the shadow it casts at 
+different times of the day  200 GMAT, GRE, LSAT    
+ (C) Determining the distance from a thunderstorm by timing the interval between 
+the flash of a lightning bolt and the thunder it produc es 
+(D) Determining the distance between two points by counting the number of 
+paces it takes to cover the distance and measuring a single pace  
+(E) Determining the speed at which a car is traveling by timing how long it takes 
+to travel a known distance  
+5. The passage supports which of the following statements about the relationship 
+between the epicenter and the focus of an earthquake?  
+(A) P wa ves originate at the focus and S waves originate at the epicenter.  
+(B) In deep events the epicenter and the focus are reversed.  
+(C) In shallow events the epicenter and the focus coincide.  
+(D) In both deep and shallow events the focus lies beneath the epice nter. 
+(E) The epicenter is in the crust, whereas the focus is in the mantle.  
+6. The passage suggests that which of the following must take place in order for any 
+earthquake to occur?  
+I. Stress must build up.  
+II. Cool rock must descend into the mantle.  
+III. A fracture must occur.  
+(A) I only  
+(B) II only  
+(C) III only  
+(D) I and III only  
+(E) I, II, and III  
+7. Information presented in the passage suggests that, compared with seismic 
+activity at the epicenter of a shallow event, seismic activity at the epicenter of a 
+deep event is characterized by  
+(A) shorter P -S intervals and higher peak intensity  
+(B) shorter P -S intervals and lower peak intensity  
+(C) longer P -S intervals and similar peak intensity  
+(D) longer P -S intervals and higher peak intensity  
+(E) longer P-S intervals and lower peak intensity  
+8. The passage suggests which of the following about the views held by researchers 
+before 1927?  
+(A) Some researchers did not believe that deep events could actually occur.  
+(B) Many researchers rejected the use of P -S intervals for determining the depths 
+of earthquakes.  
+(C) Some researchers doubted that the mantle was too ductile to store the stress 
+needed for an earthquake.   GMAT  201 
+ (D) Most researchers expected P waves to be slower than S waves.  
+(E) Few researchers accepted the current model of how shallow events occur.  
+9. The author s explanation of how deep events occur would be most weakened if 
+which of the following were discovered to be true?  
+(A) Deep events are far less common than shall ow events.  
+(B) Deep events occur in places other than where crustal plates meet.  
+(C) Mantle rock is more ductile at a depth of several hundred kilometers than it is 
+at 50 kilometers.  
+(D) The speeds of both P and S waves are slightly greater than previously  
+thought.  
+(E) Below 650 kilometers earthquakes cease to occur.

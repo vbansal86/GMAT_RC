@@ -1,0 +1,113 @@
+Milankovitch proposed in the early twentieth century that the ice ages were caused by 
+variations in the Earths orbit around the Sun. For sometime this theory was considered 
+untestable, largel y because there was no sufficiently precise chronology of the ice ages with 
+which the orbital variations could be matched.  
+To establish such a chronology it is necessary to determine the relative amounts of land ice 
+that existed at various times in the Ear ths past. A recent discovery makes such a determination 
+possible: relative land -ice volume for a given period can be deduced from the ratio of two 
+oxygen isotopes, 16 and 18, found in ocean sediments. Almost all the oxygen in water is oxygen 
+16, but a few  molecules out of every thousand incorporate the heavier isotope 18. When an ice 
+age begins, the continental ice sheets grow, steadily reducing the amount of water evaporated 
+from the ocean that will eventually return to it. Because heavier isotopes tend t o be left behi nd 
+when water evaporates from the ocean surfaces, the remaining ocean water becomes 
+progressively enriched in oxygen 18. The degree of enrichment can be determined by analyzing 
+ocean sediments of the period, because these sediments are compos ed of calcium carbonate  
+shells of marine organisms, shells that were constructed with oxygen atoms drawn from the 
+surrounding ocean. The higher the ratio of oxygen 18 to oxygen 16 in a sedimentary specimen, 
+the more land ice t here was when the sediment was laid down.  
+As an indicator of shifts in the Earths climate, the isotope record has two advantages. First, 
+it is a global record: there is remarkably little variation in isotope ratios in sedimentary 
+specimens taken from diff erent continental locations. Second, it is a more continuous record 
+than that taken from rocks on land. Because of these advantages, sedimentary evidence can be 
+dated with sufficient accuracy by radiometric methods to establish a precise chronology of the 
+ice ages. The dated isotope record shows that the fluctuations in global ice volume over the 
+past several hundred thousand years have a pattern: an ice age occurs roughly once every 
+100,000 years. These data have established a strong connection between var iations in the 
+Earths orbit and the periodicity of the ice ages.   GMAT  49 
+ However, it is important to note that other factors, such as volcanic particulates or 
+variations in the amount of sunlight received by the Earth, could potentially have affected the 
+climate.  The advantage of the Milankovitch theory is that it is testable: changes in the Earths 
+orbit can be calculated and dated by applying Newtons laws of gravity to progressively earlier 
+configurations of the bodies in the solar system. Yet the lack of infor mation about other possible 
+factors affecting global climate does not make them unimportant.  
+1. In the passage, the author is primarily interested in  
+(A) suggesting an alternative to an outdated research method  
+(B) introducing a new research method that ca lls an accepted theory into question  
+(C) emphasizing the instability of data gathered from the application of a new 
+scientific method  
+(D) presenting a theory and describing a new method to test that theory  
+(E) initiating a debate about a widely accepted  theory  
+2. The author of the passage would be most likely to agree with which of the 
+following statements about the Milankovitch theory?  
+(A) It is the only possible explanation for the ice ages.  
+(B) It is too limited to provide a plausible explanation for the ice ages, despite 
+recent research findings.  
+(C) It cannot be tested and confirmed until further research on volcanic activity is 
+done.  
+(D) It is one plausible explanation, though not the only one, for the ice ages.  
+(E) It is not a plausible explanation for the ice ages, although it has opened up 
+promising possibilities for future research.  
+3. It can be inferred from the passage that the isotope record taken from ocean 
+sediments would be less useful to researchers  if which of the following were true?  
+(A) It indicated that lighter isotopes of oxygen predominated at certain times.  
+(B) It had far more gaps in its sequence than the record taken from rocks on land.  
+(C) It indicated that climate shifts did not occur ever y 100,000 years.  
+(D) It indicated that the ratios of oxygen 16 and oxygen 18 in ocean water were 
+not consistent with those found in fresh water.  
+(E) It stretched back for only a million years.  
+4. According to the passage, which of the following is true of the ratios of oxygen 
+isotopes in ocean sediments?  
+(A) They indicate that sediments found during an ice age contain more calcium 
+carbonate tha n sediments formed at other times.  
+(B) They are less reliable than the evidence from rocks on land in determining the 
+volume of land ice.  
+(C) They can be used to deduce the relative volume of land ice that was present 
+when the sediment was laid down.  50 GMAT, GRE, LSAT    
+ (D) T hey are more unpredictable during an ice age than in other climatic 
+conditions.  
+(E) They can be used to determine atmospheric conditions at various times in the 
+past. 
+5. It can be inferred from the passage that precipitation formed from evaporated 
+ocean water has  
+(A) the same isotopic ratio as ocean water  
+(B) less oxygen 18 than d oes ocean water  
+(C) less oxygen 18 than has the ice contained in continental ice sheets  
+(D) a different isotopic composition than has precipitation formed from water on 
+land 
+(E) more oxygen 16 than has precipitation formed from fresh water  
+6. According to the passage, which of the following is (are) true of the ice ages?  
+I. The last ice age occurred about 25,000 years ago.  
+II. Ice ages have lasted about 10,000 years for at least the last several hundred 
+thousand years.  
+III. Ice ages have occurred about e very 100,000 years for at least the last several 
+hundred thousand years.  
+(A) I only 
+(B) II only 
+(C) III only 
+(D) I and  only 
+(E) I, II and III 
+7. It can be inferred from the passage that calcium carbonate shells  
+(A) are not as susceptible to deterioration as rocks  
+(B) are less common in sediments formed during an ice age  
+(C) are found only in areas that were once covered by land ice  
+(D) contain radioactive material that can be used to determine a sediments 
+isotopic composition  
+(E) reflect the isotopic composition of the water at the time the shells were 
+formed  
+8. The purpose of the last paragraph of the passage is to  
+(A) offer a note of caution  
+(B) introduce new evidence  
+(C) present two recent discoveries  
+(D) summarize material in the preceding paragraphs  
+(E) offer two explanations for a phenomenon   GMAT  51 
+ 9. According to the passage, one advantage of studying the isotope recor d of ocean 
+sediments is that it  
+(A) corresponds with the record of ice volume taken from rocks on land  
+(B) shows little variation in isotope ratios when samples are taken from different 
+continental locations  
+(C) corresponds with predictions already made by  climatologists and experts in 
+other fields  
+(D) confirms the record of ice volume initially established by analyzing variations 
+in volcanic emissions  
+(E) provides data that can be used to substantiate records concerning variations in 
+the amount of sunlight received by the Earth

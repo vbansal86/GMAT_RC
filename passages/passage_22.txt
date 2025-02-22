@@ -1,0 +1,76 @@
+All of the cells in a particular plant start out  with the same complement of genes. How then 
+can these cel ls differentiate and form structures as different as roots, stems, leaves, and fruits? 
+The answer is that only a small subset of the genes in a particular kind of cell are expressed, or 
+turned on, at a given time. This is accomplished by a complex system o f chemical messengers 
+that in plants include hormones and other regulatory molecules. Five major hormones have 
+been identified: auxin, abscisic acid , cytokinin, ethylene, and gibberellin. Studies of plants have 
+now identified a new class of regulatory molecules called oligosaccharins.  
+Unlike the oligosaccharins, the five well -known plant hormones are pleiotropic rather than 
+specific; that is, e ach has more than one effect on the growth and development of plants. The 
+five has so many simultaneous effects that they are not very useful in artificially controlling the 
+growth of crops. Auxin, for instance, stimulates the rate of cell elongation, caus es shoots to 
+grow up and roots to grow down, and inhibits the growth of lateral shoots. Auxin also causes 
+the plant to develop a vascular system, to form lateral roots, and to produce ethylene.  
+The pleiotropy of the five well -studied plant hormones is some what analogous to that of 
+certain hormones in animal. For example, hormones from the hypothalamus in the brain 
+stimulate the anterior lobe of the pituitary gland  to synthesize and release many different 
+hormones, one of which s timulates the release of hormones from the adrenal cortex . These 
+hormones have specific effects on target organs all over the body. One hormone stimulates the 
+thyroid gland, for example, another the ovarian follicle  cells, and so forth. In other words, there 
+is a hierarchy of hormones. Such a hierarchy may also exist in plants. Oligosaccharins are 
+fragments of the cell wall released by enzymes: different enzymes release different 
+oligosaccharins. There are indi cations that pleiotropic plant hormones may actually function by 
+activating the enzymes that release these other, more specific chemical messengers from the 
+cell wall.  
+1. According to the passage, the five well -known plant hormones are not useful in 
+contro lling the growth of crops because  
+(A) it is not known exactly what functions the hormones perform  
+(B) each hormone has various effects on plants  
+(C) none of the hormones can function without the others  
+(D) each hormone has different effects on different ki nds of plants  
+(E) each hormone works on only a small subset of a cells genes at any particular 
+time 66 GMAT, GRE, LSAT    
+ 2. The passage suggests that the place of hypothalamic hormones in the hormonal 
+hierarchies of animals is similar to the place of which of the following  in plants?  
+(A) Plant cell walls  
+(B) The complement of genes in each plant cell  
+(C) A subset of a plant cells gene complement  
+(D) The five major hormones  
+(E) The oligosaccharins  
+3. The passage suggests that which of the following is a function likely t o be 
+performed by an oligosaccharin?  
+(A) To stimulate a particular plant cell to become part of a plants root system  
+(B) To stimulate the walls of a particular cell to produce other oligosaccharins  
+(C) To activate enzymes that release specific chemical me ssengers from plant cell 
+walls  
+(D) To duplicate the gene complement in a particular plant cell  
+(E) To produce multiple effects on a particular subsystem of plant cells  
+4. The author mentions specific effects that auxin has on plant development in order 
+to illustrate the  
+(A) point that some of the effects of plant hormones can be harmful  
+(B) way in which hormones are produced by plants  
+(C) hierarchical nature of the functioning of plant hormones  
+(D) differences among the best -known plant hormones  
+(E) concept of pleiotropy as it is exhibited by plant hormones  
+5. According to the passage, which o f the following best describes a function 
+performed by oligosaccharins?  
+(A) Regulating the daily functioning of a plants cells  
+(B) Interacting with one another to produce different chemicals  
+(C) Releasing specific chemical messengers from a plants cell w alls 
+(D) Producing the hormones that cause plant cells to differentiate to perform 
+different functions  
+(E) Influencing the development of a plants cells by controlling the expression of 
+the cells genes  
+6. The passage suggests that, unlike the pleiotropic hormones, oligosaccharins could 
+be used effectively to  
+(A) trace the passage of chemicals through the walls of cells  
+(B) pinpoint functions of other plant hormones  
+(C) artificially control specific aspects of the development of crops  
+(D) alter the complement of genes in the cells of plants   GMAT  67 
+ (E) alter the effects of the five major hormones on plant de velopment  
+7. The author discusses animal hormones primarily in order to  
+(A) introduce the idea of a hierarchy of hormones  
+(B) explain the effects that auxin has on plant cells  
+(C) contrast the functioning of plant hormones and animals hormones  
+(D) illustra te the way in which particular hormones affect animals  
+(E) explain the distinction between hormones and regulatory molecules

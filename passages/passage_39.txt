@@ -1,0 +1,99 @@
+It was once believed that the brain was independent of metabolic processes occurring 
+elsewhere in the body. In recent studies, however, we have discovered that the production and 
+release in brain neurons of the neurotransmitter serotonin  (neurotransmitters are compounds 
+that neurons use to transmit signals to other c ells) depend directly on the food that the body 
+processes.  
+Our first studies sought to determine whether the increase in serotonin observed in rats 
+given a large injection of the amino acid tryptophan might also occur after rats ate meals that 
+change trypt ophan levels in the blood. We found that, immediately after the rats began to eat, 
+parallel elevations occurred in blood tryptophan, brain tryptophan, and brain serotonin levels. 
+These findings suggested that the production and release of serotonin in brai n neurons were 
+normally coupled with blood -tryptophan increases. In later studies we found that injecting 
+insulin into a rats bloodstream also caused parallel elevations in blood and brain tryptophan 
+levels and in serotonin levels. We then decided to see whether the secretion of the animals own 
+insulin similarly affected serotonin production. We gave the rats a carbohydrate -containing 
+meal that we knew would elicit insulin secretion. As we had hypothesized, the blood tryptophan 
+level and the concentration s of tryptophan serotonin in the brain increased after the meal.  
+Surprisingly, however, when we added a large amount of protein to the meal, brain 
+tryptophan and serotonin levels fell. Since protein contains tryptophan, why should it depress 
+brain tryptoph an levels? The answer lies in the mechanism that provides blood tryptophan to 
+the brain cells. This same mechanism also provides the brain cells with other amino acids found 
+in protein, such as tyrosine and Leucine. The consumption of protein increases blo od 
+concentration of the other amino acids much more, proportionately, than it does that of 
+tryptophan. The more protein in the meal, the lower is the ratio of the resulting 
+blood -tryptophan concentration to the concentration of competing amino acids, and t he more 
+slowly is tryptophan provided to the brain. Thus the more protein in a meal, the less serotonin 
+subsequently produced and released.  
+1. Which of the following titles best summarizes the contents of the passage?  
+(A) Neurotransmitters: Their Crucial F unction in Cellular Communication  
+(B) Diet and Survival: An Old Relationship Reexamined  
+(C) The Blood Supply and the Brain: A Reciprocal Dependence  
+(D) Amino Acids and Neurotransmitters: The Connection Between Serotonin 
+Levels and Tyrosine  108 GMAT, GRE, LSAT    
+ (E) The Effec ts of Food Intake on the Production and Release of Serotonin: Some 
+Recent Findings  
+2. According to the passage, the speed with which tryptophan is provided to the 
+brain cells of a rat varies with the  
+(A) amount of protein present in a meal  
+(B) concentratio n of serotonin in the brain before a meal  
+(C) concentration of leucine in the blood rather than on the concentration of 
+tyrosine in the blood after a meal  
+(D) concentration of tryptophan in the brain before a meal  
+(E) number of serotonin -containing neurons present in the brain before a meal  
+3. According to the passage, when the authors began their first studies, they were 
+aware that  
+(A) they would eventually need to design experiments that involved feeding rats 
+high concentrations of protein  
+(B) tryptophan levels in the blood were difficult to monitor with accuracy  
+(C) serotonin levels increased after rats were fed meals rich in tryptophan  
+(D) there were many neurotransmitters whose production was dependent on 
+metabolic processes elsewhere in the body  
+(E) serotonin levels increased after rats were injected with a large amount of 
+tryptophan  
+4. According to the passage, one reason that the authors gave rats carbohydrates was 
+to 
+(A) depress the rats tryptophan levels  
+(B) prevent the rats from contract ing diseases  
+(C) cause the rats to produce insulin  
+(D) demonstrate that insulin is the most important substance secreted by the body  
+(E) compare the effect of carbohydrates with the effect of proteins  
+5. According to the passage, the more protein a rat consumes, the lower will be the  
+(A) ratio of the rats blood -tryptophan concentration to the amount of serotonin 
+produced and released in the rats brain  
+(B) ratio of the rats blood -tryptophan concentration to the concentration in its 
+blood of the other a mino acids contained in the protein  
+(C) ratio of the rats blood -tyrosine concentration to its blood -leucine 
+concentration  
+(D) number of neurotransmitters of any kind that the rat will produce and release  
+(E) number of amino acids the rats blood will contain  
+6. The authors discussion of the mechanism that provides blood tryptophan to the 
+brain cells (lines 31 -32) is meant to   GMAT  109 
+ (A) stimulate further research studies  
+(B) summarize an area of scientific investigation  
+(C) help explain why a particular research finding was obtained  
+(D) provide supporting evidence for a controversial scientific theory  
+(E) refute the conclusions of a previously mentioned research study  
+7. According to the passage, an injec tion of insulin was most similar in its effect on 
+rats to an injection of  
+(A) tyrosine  
+(B) leucine  
+(C) blood  
+(D) tryptophan  
+(E) protein  
+8. It can be inferred from the passage that which of the following would be LEAST 
+likely to be a potential source of aid to a patient who was not adequately 
+producing and releasing serotonin?  
+(A) Meals consisting almost exclusively of protein  
+(B) Meals consisting almost exclusively of carbohydrates  
+(C) Meals that would elicit insulin secretion  
+(D) Meals that had very low  concentrations of tyrosine  
+(E) Meals that had very low concentrations of leucine  
+9. It can be inferred from the passage that the authors initially held which of the 
+following hypotheses about what would happen when they fed large amounts of 
+protein to rats?  
+(A) The rats brain s erotonin levels would not decrease.  
+(B) The rats brain tryptophan levels would decrease . 
+(C) The rats tyrosine levels would increase less quickly than would their leucine 
+levels . 
+(D) The rats would produce more insulin.  
+(E) The rats would produce neur otransmitters other than serotonin.

@@ -1,0 +1,66 @@
+(This passage was written in 1984.)  
+It is now possible to hear a recording of Carusos singing that is fa r superior to any made 
+during his lifetime. A decades -old wa x-cylinder recording of this great operatic tenor has been 
+digitized, and the digitized signal has been processed by computer to remove the extraneous 
+sound, or noise, introduced by the now anc ient wax -cylinder recording process.  
+Although this digital technique needs improvements, it represents a new and superior way 
+of recording and processing sound which overcomes many of the limitations of analog 
+recording. In analog recording systems, the o riginal sound is represented as a continuous 
+waveform created by variations in the sounds amplitude over time. When analog playback 
+systems reproduce this waveform, however, they invariably introduce distortions. First, the 
+waveform produced during playba ck differs somewhat from the original waveform. Second, the 
+medium that stores the analog recording creates noise during playback which gets added to the 
+recorded sounds.  
+Digital recordings, by contrast, reduce the original sound to a series of discrete nu mbers 
+that represent the sounds waveform. Because the digital playback system reads only 
+numbers, any noise and distortion that may accumulate during storage and manipulation of the 
+digitized signal will have little effect: as long as the numbers remain  recognizable, the original 
+waveform will be reconstructed with little loss in quality. However, because the waveform is 
+continuous, while its digital representation is composed of discrete numbers, it is impossible for 
+digital systems to avoid some distor tion. One kind of distortion, called sampling error, occurs if 
+the sound is sample d (i.e., its amplitude is measured) too infrequently, so that the amplitude 
+changes more than one quantum (the smallest change in amplitude measured by the digital 
+system) between samplings. In effect, the sound is changing too quickly for the system to 
+record it accurately. A second form of distortion is quantizing error, which arises when the 
+amplitude being measured is not a whole number of quanta, forcing the digital r ecorder to 
+round off. Over the long term, these errors are random, and the noise produced (a background 
+buzzing) is similar to analog noise except that it only occurs when recorded sounds are being 
+reproduced.  
+272. Which of the following best describes the  relationship of the first paragraph to the 
+passage as a whole?  
+(A) The first paragraph introduces a general thesis that is elaborated on  in detail 
+elsewhere in the passage.  
+(B) The first paragraph presents a concrete instance of a problem that is discussed 
+elsewhere in the passage.  
+(C) The first paragraph describes a traditional process that is contrasted 
+unfavorably with a newer proc ess described elsewhere in the passage.  
+(D) The first paragraph presents a dramatic example of the potential of a process 
+that is described elsewhere in the passage.  
+(E) The first paragraph describes a historic incident that served as the catalyst for 
+developments described elsewhere in the passage.   GMAT  287 
+ 273. According the passage, one of the ways in which analog recording systems differ 
+from digital recording systems is that analog systems  
+(A) can be used to reduce background noise in old recordings  
+(B) reco rd the original sound as a continuous waveform  
+(C) distort the original sound somewhat  
+(D) can avoid introducing extraneous and nonmusical sounds  
+(E) can reconstruct the original waveform with little loss in quality  
+274. Which of the following statements about the numbers by which sound is 
+represented in a digital system can be inferred from the passage?  
+(A) They describe the time interval betwe en successive sounds in a passage of 
+music.  
+(B) They model large changes in the amplitude of the initial sound with relatively 
+poor precision.  
+(C) They are slightly altered each time they are read by the playback apparatus.  
+(D) They are not readily altered  by distortion and noise accumulated as the digital 
+signal is stored and manipulated.  
+(E) They are stored in the recording medium in small groups that can be read 
+simultaneously by the playback apparatus.  
+275. Which of the following can be inferred from the passage about the digital 
+approach to the processing of sound?  
+(A) It was develo ped in competition with wax -cylinder recording technology.  
+(B) It has resulted in the first distortion -free playback system.  
+(C) It has been extensively applied to nonmusical sounds.  
+(D) It cannot yet process music originally recorded on analog equipment.  
+(E) It is not yet capable of reprocessing old recordings in a completely 
+distortion -free manner.

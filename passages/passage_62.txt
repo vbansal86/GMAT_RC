@@ -1,0 +1,103 @@
+The antigen -antibody immunological reaction used to be regarded as typical of 
+immunological responses. Antibodies are proteins synthesized by spe cialized cells called plasma 
+cells, which are formed by lymphocytes (cells from the lymph system) when an antigen, a 
+substance foreign to the organism s body, comes in contact with lymphocytes. Two important 
+manifestations of antigen -antibody immunity are lysis, the rapid physical rupture of antigenic 
+cells and the liberation of their contents into the surrounding medium, and phagocytosis, a 
+process in which antigenic particles are engulfed by and very often digested by macrophages 
+and polymorphs. The proce ss of lysis is executed by a complex and unstable blood constituent 
+known as complement, which will not work unless it is activated by a specific antibody; the 
+process of  phagocytosis is greatly facilitated when the particles to be engulfed are coated by a  
+specific antibody directed against them.  
+The reluctance to abandon this hypothesis, however well it explains specific processes, 
+impeded new research, and for many years  antigens and antibodies dominated the thoughts of 
+immunologists so completely that th ose immunologists overlooked certain difficulties. Perhaps  
+the primary difficulty with the antigen -antibody explanation is the informational problem of how 
+an antigen is recognized and how a structure exactly complementary to it is then synthesized. 
+When m olecular biologists discovered, moreover, that such information cannot flow from 
+protein to protein, but only from nucleic acid to protein, the theory that an antigen itself 
+provided the mold that directed the synthesis of an antibody had to be seriously q ualified. The 
+attempts at qualification and the information provided by research in molecular biology led 
+scientists to realize that a second immunological reaction is mediated through the lymphocytes 
+that are hostile to and bring about the destruction of the antigen. This type of immunological 
+response is called cell -mediated immunity.  
+Recent research in cell -mediated immunity has been concerned not only with the 
+development of new and better vaccines, but also with the problem of transplanting tissues and  
+organs from  one organism to another, for although circulating antibodies play a part in the 
+rejection of transplanted tissues, the primary role is played by cell -mediated reactions. During 
+cell-mediated responses, receptor sites on specific lymphocytes an d surface antigens on the 
+foreign tissue cells form a complex that binds the lymphocytes to the tissue. Such lymphocytes 
+do not give rise to antibody -producing plasma cells but themselves bring about the death of the 
+foreign -tissue cells, probably by secre ting a variety of substances, some of which are toxic to 
+the tissue cells and some of which stimulate increased phagocytic activity by white blood cells 
+of the macrophage type. Cell -mediated immunity also accounts for the destruction of 
+intracellular paras ites. 
+1. The author is primarily concerned with  
+(A) proving that immunological reactions do not involve antibodies  
+(B) establishing that most immunological reactions involve antigens  
+(C) criticizing scientists who will not change their theories regarding i mmunology   GMAT  159 
+ (D) analyzing the importance of cells in fighting disease  
+(E) explaining two different kinds of immunological reactions  
+2. The author argues that the antigen -antibody explanation of immunity had to 
+seriously qualified (line 37) because  
+(A) a ntibodies were found to activate unstable components in the blood  
+(B) antigens are not exactly complementary to antibodies  
+(C) lymphocytes have the ability to bind to the surface of antigens  
+(D) antibodies are synthesized from protein whereas antigens are made from 
+nucleic acid  
+(E) antigens have no apparent mechanism to direct the formation of an antibody  
+3. The author most probably believes that the antigen -antibody theory of 
+immunological reaction.  
+(A) is wrong  
+(B) was accepted without evidence  
+(C) is unverifiable  
+(D) is a partial explanation  
+(E) has been a divisive issue among scientists  
+4. The author mentions all of the following as being involved in antigen -antibody 
+immunological reactions EXCEPT the  
+(A) synthesis of a protein  
+(B) activation of complement in the bloods tream  
+(C) destruction of antibodies  
+(D) entrapment of antigens by macrophages  
+(E) formation of a substance with a structure complementary to that of an antigen  
+5. The passage contains information that would answer which of the following 
+questions about cell-mediated immunological reactions?  
+I. Do lymphocytes form antibodies during cell -mediated immunological 
+reactions?  
+II. Why are lymphocytes more hostile to antigens during cell -mediated 
+immunological reactions than are other cell groups?  
+III. Are cell -mediated reactions more pronounced after transplants than they are 
+after parasites have invaded the organism?  
+(A) I only  
+(B) I and II only  
+(C) I and III only  
+(D) II and III only  
+(E) I, II, and III  160 GMAT, GRE, LSAT    
+ 6. The passage suggests that scientists might not have developed the theory of 
+cell-mediated immunological reactions if  
+(A) proteins existed in specific group types  
+(B) proteins could have been shown to direct the synthesis of other proteins  
+(C) antigens were always destroyed by proteins  
+(D) antibodies were composed only of protein  
+(E) antibodies were the body s primary means of resisting disease  
+7. According to the passage, antibody -antigen and cell -mediated immunological 
+reaction s both involve which of the following processes?  
+I. The destruction of antigens  
+II. The creation of antibodies  
+III. The destruction of intracellular parasites  
+(A) I only  
+(B) II only  
+(C) III only  
+(D) I and II only  
+(E) II and III only  
+8. The author suppor ts the theory of cell -mediated reactions primarily by  
+(A) pointing out a contradiction in the assumption leading to the antigen -antibody 
+theory  
+(B) explaining how cell mediation accounts for phenomena that the 
+antigen -antibody theory cannot account for  
+(C) revealing new data that scientists arguing for the antigen -antibody theory 
+have continued to ignore  
+(D) showing that the antigen -antibody theory fails to account for the breakup of 
+antigens  
+(E) demonstrating that cell mediation explains lysis and phagocytosis more fully 
+than the antigen -antibody theory does

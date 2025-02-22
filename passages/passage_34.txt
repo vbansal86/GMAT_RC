@@ -1,0 +1,114 @@
+Protein synthesis begins when the gene encoding a protein is activated. The genes 
+sequence of nucleotides is transcribed into a molecule of messenger RNA (mRNA), which 
+reproduces the information contained in that sequence. Transported outside the nucleus to the 
+cytoplasm, the mRNA is translated into the protein it encodes by an organelle known as a 
+ribosome, which strings together amino acids in the order specified by the sequence of 
+elements in t he mRNA molecule. Since the amount of mRNA in a cell determines the amount of 
+the corresponding protein, factors affecting the abundance of mRNAs play a major part in the 
+normal functioning of a cell by appropriately regulating protein synthesis. For exam ple, an 
+excess of certain proteins can cause cells to proliferate abnormally and become cancerous; a 
+lack of the protein insulin results in diabetes.  
+Biologists once assumed that the variable rates at which cells synthesize different mRNAs 
+determine the q uantities of mRNAs and their corresponding proteins in a cell. However, recent 
+investigations have shown that the concentrations of most mRNAs correlate best, not with their 
+synthesis rate, but rather with the equally variable rates at which cells degrad e the different 
+mRNAs in their cytoplasm. If a cell degrades both a rapidly and a slowly synthesized mRNA 
+slowly, both mRNAs will accumulate to high levels.  
+An important example of this phenomenon is the development of red blood cells from their 
+unspecia lized parent cells in bone marrow . For red blood cells to accumulate sufficient 
+concentrations of hemoglobin  (which transports oxygen) to carry out their main function, the 
+cells parent cells must simultaneously pr oduce more of the constituent proteins of hemoglobin 
+and less of most other proteins. To do this, the parent cells halt synthesis of non -hemoglobin 
+mRNAs in the nucleus and rapidly degrade copies of the non -hemoglobin mRNAs remaining in 
+the cytoplasm. Ha lting synthesis of mRNA alone would not affect the quantities of proteins 
+synthesized by the mRNAs still existing in the cytoplasm. Biologists now believe that most cells 
+can regulate protein production most efficiently by varying both mRNA synthesis and 
+degradation, as developing red cells do, rather than by just varying one or the other.  
+1. The passage is primarily concerned with discussing the  
+(A) influence of mRNA concentrations on the development of red blood cells  
+(B) role of the synthesis and degrad ation of mRNA in cell functioning  
+(C) mechanism by which genes are transcribed into mRNA  
+(D) differences in mRNA concentrations in cell nuclei and in the cytoplasm  
+(E) way in which mRNA synthesis contributes to the onset of diabetes  
+2. The passage suggests that a biologist who held the view described in the first 
+sentence of the second paragraph would most probably also have believed which 
+of the following?  
+(A) T he rate of degradation of specific mRNAs has little effect on protein 
+concentrations.  
+(B) The rate of degradation of specific mRNAs should be studied intensively.   GMAT  97 
+ (C) The rates of synthesis and degradation for any given mRNA are normally 
+equal.  
+(D) Diffe rent mRNAs undergo degradation at widely varying rates.  
+(E) Most mRNAs degrade very rapidly.  
+3. Which of the following best describes the relationship between the second and 
+third paragraphs of the passage?  
+(A) The second paragraph presents arguments in support of a new theory and the 
+third paragraph prese nts arguments against that same theory.  
+(B) The second paragraph describes a traditional view and the third paragraph 
+describes the view that has replaced it on the basis of recent investigations.  
+(C) The third paragraph describes a specific case of a phen omenon that is 
+described generally in the second paragraph.  
+(D) The third paragraph describes an investigation that was undertaken to resolve 
+problems raised by phenomena described in the second paragraph.  
+(E) Both paragraphs describe in detail specific examples of the phenomenon that 
+is introduced in the first paragraph.  
+4. The accumulation of concentrations of hemoglobin in red blood cells is 
+mentioned in the passage as an example of which of the follo wing?  
+(A) The effectiveness of simultaneous variation of the rates of synthesis and 
+degradation of mRNA  
+(B) The role of the ribosome in enabling a parent cell to develop properly into a 
+more specialized form  
+(C) The importance of activating the genes for p articular proteins at the correct 
+moment  
+(D) The abnormal proliferation of a protein that threatens to make the cell 
+cancerous  
+(E) The kind of evidence that biologists relied on for support of a view of mRNA 
+synthesis that is now considered obsolete  
+5. To begin to control a disease caused by a protein deficiency, the passage suggests 
+that a promising experimental treatment wou ld be to administer a drug that would 
+reduce  
+(A) only the degradation rate for the mRNA of the protein involved  
+(B) only the synthesis rate for the mRNA of the protein involved  
+(C) both the synthesis and degradation rates for the mRNA of the protein 
+involv ed 
+(D) the incidence of errors in the transcription of mRNAs from genetic 
+nucleotide sequences  
+(E) the rate of activity of ribosomes in the cytoplasm of most cells  
+6. According to the passage, which of the following best describes the current view 98 GMAT, GRE, LSAT    
+ on the relationship between the synthesis and the degradation of mRNA in 
+regulating protein synthes is? 
+(A) Biologists have recently become convinced that the ribosome controls the 
+rates of synthesis and degradation of mRNA.  
+(B) There is no consensus among biologists as to the significance of mRNA 
+degradation in regulating protein synthesis.  
+(C) The conc ept of mRNA degradation is so new that most biologists still believe 
+that the vital role in protein regulation belongs to mRNA synthesis.  
+(D) Degradation of mRNA is now considered to be the key process and mRNA 
+synthesis is no longer believed to play a sig nificant role.  
+(E) Degradation of mRNA is now considered to be as important as mRNA 
+synthesis has been, and still is, believed to be.  
+7. According to the passage, which of the following can happen when protein 
+synthesis is not appropriately regulated?  
+(A) Diabetes can result from errors that occur when the ribosomes translate 
+mRNA into protein.  
+(B) Cancer can result from an excess of certain proteins and diabetes can result 
+from an insulin deficiency.  
+(C) A deficiency of red blood cells can occur if bone  marrow cells produce too 
+much hemoglobin.  
+(D) Cancer can be caused by excessively rapid degradation of certain amino acids 
+in the cytoplasm of cells.  
+(E) Excessive synthesis of one protein can trigger increased degradation of 
+mRNAs for other proteins and create severe protein imbalances.  
+8. The passage suggests that a biologist who detected high levels of two proteins in 
+a certain type of cell woul d be likely to consider which of the following as a 
+possible explanation?  
+(A) The rate of mRNA degradation for one of the proteins increases as this type 
+of cell develops a more specialized function.  
+(B) The two proteins are most likely constituents of a c omplex substance 
+supporting the cells specialized function.  
+(C) The cells are likely to proliferate abnormally and possibly become cancerous 
+due to the levels of these proteins.  
+(D) The mRNAs for both proteins are being degraded at a low rate in that typ e of 
+cell. 
+(E) The mRNAs for the two proteins are being synthesized at identical rates in 
+that type of cell.
